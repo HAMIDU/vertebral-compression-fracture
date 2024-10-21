@@ -1,0 +1,4 @@
+crush: 3
+normal: 0
+Wedge: 1
+BiConcave: 2
